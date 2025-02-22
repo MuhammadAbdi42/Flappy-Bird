@@ -13,3 +13,15 @@ The assest used for this game have been extracted form [here](https://github.com
 
 #### 🎉 Acknowledgments
 Inspired by the original Flappy Bird game by Dong Nguyen, special thanks to [Game Maker's Toolkit](https://www.youtube.com/watch?v=vFjXKOXdgGo) for the inspiration.
+
+---
+
+### Update Logs:
+
+#### [1.1] - 2025-02-22  
+#### Fixed: 
+- Resolved aspect ratio issues using letterboxing and pillarboxing.  
+- Added a script to the camera game object to dynamically adjust letterboxing and pillarboxing based on screen size and aspect ratio.  
+- Updated canvas game objects to ensure proper scaling and alignment.  
+
+**Source:** [YouTube Video](https://www.youtube.com/watch?v=TtTazufyjyM)
