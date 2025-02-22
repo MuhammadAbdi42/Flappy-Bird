@@ -11,8 +11,5 @@ You can play it by either online with the WebGL build [here](https://muhammadabd
 #### 🤝 Contributing
 The assest used for this game have been extracted form [here](https://github.com/samuelcust/flappy-bird-assets).
 
-#### 💀 Issues
-The game may be buggy in screens other than 16:9 screens.
-
 #### 🎉 Acknowledgments
 Inspired by the original Flappy Bird game by Dong Nguyen, special thanks to [Game Maker's Toolkit](https://www.youtube.com/watch?v=vFjXKOXdgGo) for the inspiration.
